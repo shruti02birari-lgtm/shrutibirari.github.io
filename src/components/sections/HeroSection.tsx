@@ -70,7 +70,7 @@ const HeroSection = () => {
 
             <div className="hero-stats">
               <div>
-                <h3>2+</h3>
+                <h3>3+</h3>
                 <p>Years Experience</p>
               </div>
               <div>
