@@ -46,7 +46,7 @@ const ExperienceSection = () => {
             Professional <span>Experience</span>
           </h2>
 
-          <p>2+ years of transforming data into strategic business value</p>
+          <p>3+ years of transforming data into strategic business value</p>
         </div>
 
         {/* Timeline Component */}

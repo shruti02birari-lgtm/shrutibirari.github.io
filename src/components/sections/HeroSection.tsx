@@ -42,12 +42,12 @@ const HeroSection = () => {
             </h1>
 
             <p className="hero-description">
-              Hii I am Shruti Birari, Data Analyst with <strong>2+ years of experience</strong>{" "}
+              Hii I am Shruti Birari, Data Engineer with <strong>3+ years of experience</strong>{" "}
               specializing in <span className="highlight">R programming</span>,{" "}
               <span className="highlight">Power BI</span>,{" "}
               <span className="highlight">SQL</span>, and{" "}
               <span className="highlight">Python</span>. Expert in data
-              visualization and statistical analysis.
+              visualization, Databricks, ETL, BI tools and statistical analysis.
             </p>
 
             <div className="hero-buttons">
